@@ -1,0 +1,82 @@
+{
+  "app": {
+    "name": "test-hel-vue",
+    "app_group_name": "test-hel-vue",
+    "git_repo_url": "",
+    "online_version": "1.5.0",
+    "build_version": "1.5.0"
+  },
+  "version": {
+    "plugin_ver": "4.3.11",
+    "extract_mode": "build",
+    "sub_app_name": "test-hel-vue",
+    "sub_app_version": "1.5.0",
+    "src_map": {
+      "webDirPath": "./",
+      "htmlIndexSrc": "./index.html",
+      "extractMode": "all",
+      "iframeSrc": "",
+      "chunkCssSrcList": [
+        "./css/chunk-12954bd4.2fd41802.css"
+      ],
+      "chunkJsSrcList": [
+        "./js/app~e2e93592.249dca79.js",
+        "./js/chunk-12954bd4.d2ba27f3.js"
+      ],
+      "staticCssSrcList": [
+        "css/chunk-12954bd4.2fd41802.css"
+      ],
+      "staticJsSrcList": [
+        "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js",
+        "js/app~e2e93592.249dca79.js"
+      ],
+      "relativeCssSrcList": [],
+      "relativeJsSrcList": [],
+      "privCssSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "staticScript",
+          "append": false,
+          "attrs": {
+            "src": "https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js"
+          }
+        },
+        {
+          "tag": "staticLink",
+          "append": false,
+          "attrs": {
+            "href": "css/chunk-12954bd4.2fd41802.css",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "staticLink",
+          "append": false,
+          "attrs": {
+            "href": "js/chunk-12954bd4.d2ba27f3.js",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "staticLink",
+          "append": false,
+          "attrs": {
+            "href": "js/app~e2e93592.249dca79.js",
+            "rel": "preload",
+            "as": "script"
+          }
+        }
+      ],
+      "bodyAssetList": [
+        {
+          "tag": "staticScript",
+          "append": false,
+          "attrs": {
+            "src": "js/app~e2e93592.249dca79.js"
+          }
+        }
+      ]
+    },
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-external/level1/comb-v1-2.7.14-vue.js\"></script><link href=\"css/chunk-12954bd4.2fd41802.css\" rel=\"prefetch\"><link href=\"js/chunk-12954bd4.d2ba27f3.js\" rel=\"prefetch\"><link href=\"js/app~e2e93592.249dca79.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but test-hel-vue doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"js/app~e2e93592.249dca79.js\"></script></body></html>"
+  }
+}
